@@ -133,8 +133,11 @@ main {
     border: 1px solid rgba(13, 19, 33, 0.2);
     border-radius: 16px;
     padding: 20px;
+    margin-bottom: 113px;
 }
-
+.vedio-text{
+    text-align: center;
+}
 .vedio-heading
 {
     margin-bottom: 18px;
@@ -142,4 +145,41 @@ main {
 .inspiration
 {
     margin-bottom: 36px;
+}
+.target-text
+{
+    width: 852px;
+    margin: 0 auto;
+    text-align: center;
+    margin-bottom: 24px;
+}
+.target-content
+{
+    display: flex;
+   justify-content: space-around;
+   
+}
+.target-p{
+    margin-bottom: 48px;
+}
+.skill1
+{
+    padding: 44px;
+    background-color:rgba(255, 76, 30, 0.05);
+    
+}
+.skill2
+{
+    padding: 44px;
+    background-color:rgba(0, 76, 232, 0.05);
+}
+.skill3
+{
+    padding: 44px;
+    background-color:rgba(255, 223, 0, 0.05);
+}
+.ta
+{
+    color: black;
+    font-weight: bold;
 }
